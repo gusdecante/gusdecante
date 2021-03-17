@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Gustavo 👋
 
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
 <!--
 **gusdecante/gusdecante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
