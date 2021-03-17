@@ -4,11 +4,11 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" style="vertical-align:top; margin:6px 4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" style="vertical-align:top; margin:6px 4px; width: 1em">
   </a>  
 
  <a href="#">
-    <img src="https://miro.medium.com/max/2625/1*7oIPm3GmCAzpLdVOnia6dQ.png" alt="GraphQL" style="vertical-align:top; margin:6px 4px">
+    <img src="https://miro.medium.com/max/2625/1*7oIPm3GmCAzpLdVOnia6dQ.png" alt="GraphQL" style="vertical-align:top; margin:6px 4px; width: 1em">
   </a>   
 </p>
 <!--
