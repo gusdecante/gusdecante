@@ -1,11 +1,11 @@
 <div id="header" align="center">  
   <div>
-    <h1>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiZTEwOWEzYzg5N2UyMDI4YmUxYzNhOGIzZGM0Nzc0OTUxNjZiNSZjdD1n/26tOYHUgZYoj2YKPe/giphy.gif" height="100" width="100" />
+  </div>  
+  <h1>
       Front-end
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiZTEwOWEzYzg5N2UyMDI4YmUxYzNhOGIzZGM0Nzc0OTUxNjZiNSZjdD1n/26tOYHUgZYoj2YKPe/giphy.gif" height="100" width="100" />
-  </div>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/gustavo-campos-347853163/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
