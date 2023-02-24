@@ -1,7 +1,7 @@
 <div id="header" align="center">  
   <div>
     <h1>
-      Buscando me comunicar com as ferramentas ao alcance, desenvolvedor front-end de Sarapuí-SP interior!
+      Desenvolvedor front-end do interior de SP!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiZTEwOWEzYzg5N2UyMDI4YmUxYzNhOGIzZGM0Nzc0OTUxNjZiNSZjdD1n/26tOYHUgZYoj2YKPe/giphy.gif" height="100" width="100" />
