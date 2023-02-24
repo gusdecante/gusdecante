@@ -1,9 +1,7 @@
-<div id="header" align="center">  
-  <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiZTEwOWEzYzg5N2UyMDI4YmUxYzNhOGIzZGM0Nzc0OTUxNjZiNSZjdD1n/26tOYHUgZYoj2YKPe/giphy.gif" height="100" width="100" />
-  </div>  
+<div id="header" **align**="center">  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRiZTEwOWEzYzg5N2UyMDI4YmUxYzNhOGIzZGM0Nzc0OTUxNjZiNSZjdD1n/26tOYHUgZYoj2YKPe/giphy.gif" height="100" width="100" />
   <h1>
-      Front-end
+  Front-end
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
@@ -21,5 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=gusdecante&theme=garden&border_radius=5.8&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
