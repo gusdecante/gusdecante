@@ -10,12 +10,14 @@
   <h1>☕</h1>
   </div>
 
-  <div id="badges" style="margin-top: 2rem; margin-bottom: 2rem;">
+  <div id="badges" style="
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+">
     <a href="https://www.linkedin.com/in/gustavo-campos-347853163/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-### ...
   <div style="magin-top: 2rem;">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
