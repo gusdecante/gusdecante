@@ -1,19 +1,16 @@
 ```
-                                              ____                    _
-                                              |  _ \ _   _ _ __     __| | _____   __
-                                              | |_) | | | | '_ \   / _` |/ _ \ \ / /
-                                              |  _ <| |_| | | | | | (_| |  __/\ V /
-                                              |_| \_\\__,_|_| |_|  \__,_|\___| \_/
+____                    _
+|  _ \ _   _ _ __     __| | _____   __
+| |_) | | | | '_ \   / _` |/ _ \ \ / /
+|  _ <| |_| | | | | | (_| |  __/\ V /
+|_| \_\\__,_|_| |_|  \__,_|\___| \_/
 ```
 <div id="header" align="center"> 
   <div>
   <h1>☕</h1>
   </div>
 
-  <div id="badges" style="
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-">
+  <div id="badges" class="my-4">
     <a href="https://www.linkedin.com/in/gustavo-campos-347853163/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
