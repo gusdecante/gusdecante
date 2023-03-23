@@ -1,10 +1,3 @@
-```
-____                    _
-|  _ \ _   _ _ __     __| | _____   __
-| |_) | | | | '_ \   / _` |/ _ \ \ / /
-|  _ <| |_| | | | | | (_| |  __/\ V /
-|_| \_\\__,_|_| |_|  \__,_|\___| \_/
-```
 <div id="header" align="center"> 
   <div>
   <h1>☕</h1>
@@ -30,7 +23,5 @@ ____                    _
 
 ### ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdecante&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### ...
-[![GitHub Streak](https://streak-stats.demolab.com?user=gusdecante&theme=garden&border_radius=5.8&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
